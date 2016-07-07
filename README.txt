@@ -1,1 +1,0 @@
-http://azmind.com/2015/04/19/bootstrap-login-forms/
